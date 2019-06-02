@@ -1,1 +1,1 @@
-def reverse_each)word
+def reverse_each_word
